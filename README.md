@@ -1,3 +1,2 @@
 # Rest-api-minimal-swift
-Swifty — is an open source REST API created using Core PHP and OOP. This is basically my very first REST API project.
-It's pretty SIMPLE, MINIMAL & POWERFUL
+Swifty is a free and open source REST API written in PHP with OOP. It is SIMPLE, MINIMAL, AND Modular.
